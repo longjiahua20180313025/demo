@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #ededed
+}
+.header{
+    width: 980px;
+    height: 86px;
+    line-height: 86px;
+    font-family: "微软雅黑";
+    color: #a5a5a5;
+    margin: 0 auto;
+    border-bottom: 2px solid #d1d1d1;
+}
+.title{
+    font-size: 30px;
+    text-align: center;
+    font-weight: normal;
+}
+.title span{
+    font-size: 14px;
+}
+
+.fiower-type{
+    width: 980px;
+    margin: 7px auto;
+
+}
+.fiower{
+    font-size: 14px;
+    height: 42px;
+    line-height: 42px;
+    color: #a5a5a5;
+}
+.img{
+    width: 100%;
+}
+.cone{
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    font-family: "KaiTi";
+    color: #a5a5a5;
+}
+.hot{
+    width: 602px;
+    margin: 10px auto;
+    font-size: 16px;
+    font-family: "KaiTi";
+    color: #a5a5a5;
+    line-height: 30px;
+    text-indent: 2em;
+}
+.hot>p>span{
+    text-decoration: underline;
+}
+.footer{
+    width: 602px;
+    margin: 0 auto;
+   font-family: "微软雅黑";
+   font-size: 16px;
+   font-weight: bold;
+   color: #a5a5a5;
+
+}
+.footer>p{
+    text-align: center;
+}
+ .fom{
+    width: 602px;
+    margin: 0 auto;
+    font-family: "微软楷体";
+    font-size: 16px;
+    color: tomato;
+    
+}
+.fom>p{
+    text-align: center;
+} 
+.footer img{
+    float: left;
+    margin-right: 30px;
+}
+.footer .boss{
+    text-align: left;
+    margin: 30px 0 0 30px;
+}
